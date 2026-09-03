@@ -1,2 +1,6 @@
-let message = "Hello JvaScript!";
-console.loh(message);
+
+<html>
+    <head>
+        <script src="external.js"></script>
+    </head>
+</html>
